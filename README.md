@@ -11,16 +11,28 @@ Hello there! I'm Aneek, currently studying Electrical Engineering with a minor i
 ## Work Experience
 
 - **Research Developer** - Texas A&M Engineering Experiment Station (Sep 2023 - Present)
-  - Developed software enhancing PPG signal quality and created algorithms for advanced physiological data analysis.
-  - Technologies: C#, Python, C++, .NET, Arduino
+  • Developed software to enhance PPG signal quality with bandpass and highpass filters and created
+    algorithms for calculating perfusion index and PPG AC values, enabling advanced physiological data
+    analysis and health insights
+  • Implemented desktop application with C# and WPF/.NET for enhanced data visualization and user
+    interaction, and implemented Arduino-based data acquisition systems for real-time heartbeat monitoring
+    and analysis
+  • Technologies: C#, Python, C++, .NET, Arduino
 
 - **Software Developer Intern** - Xerion Advanced Battery (May 2023 - Aug 2023)
-  - Developed a real-time Raman spectroscopy application and contributed to a 70% increase in battery production efficiency.
+  • Developed real-time Raman spectroscopy application in WPF utilizing C# threading, and multi-threading
+  techniques.
+  • Built and integrated Gaussian and Lorentzian curve fitting algorithms for accurate real time analysis of
+  Raman spectra data.
+  • Contributed to a 70% increase in battery production efficiency by enabling continuous chemical level
   - Technologies: C#, C++, .NET Framework
 
 - **Web Developer Intern** - SolarFi (Oct 2022 - Mar 2023)
-  - Developed an alert/news system improving user engagement and created a user authentication system.
-  - Technologies: Python, ReactJS, Figma, MongoDB
+  • Developed an alert/news system that led to a 20% increase in the click-through rate, improving user
+    engagement.
+  • Created a user authentication system using Auth0, enhancing security and streamlining the sign-in process.
+  • Utilized Figma to design mock-ups and coordinated with team to develop a final design.
+  • Technologies: Python, ReactJS, Figma, MongoDB
 
 ## Projects
 
