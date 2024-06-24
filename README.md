@@ -10,9 +10,10 @@ Hello there! I'm Aneek, currently studying Electrical Engineering with a minor i
 
 ## Work Experience
 - **Founder** - SimpleEats (Current)
+  
 - **Software Developer Intern** - Xerion Advanced Battery (May 2024 - Aug 2024)
 
-- - **Software Developer** - TeamUp (May 2024 - Aug 2024)
+- **Software Developer** - TeamUp (May 2024 - Aug 2024)
 
 - **Research Developer** - Texas A&M Engineering Experiment Station (Sep 2023 - Present)
   - Developed software to enhance PPG signal quality with bandpass and highpass filters and created
