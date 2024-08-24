@@ -11,7 +11,7 @@ Hello there! I'm Aneek, currently studying Electrical Engineering with a minor i
 ## Work Experience
 - **Founder** - SimpleEats (Current)
   
-- **Software Developer Intern** - Xerion Advanced Battery (May 2024 - Aug 2024)
+- **Software Developer Intern** - Xerion Advanced Battery (May 2024 - Current)
 
 - **Software Developer** - TeamUp (May 2024 - Aug 2024)
 
