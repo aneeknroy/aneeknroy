@@ -14,8 +14,10 @@ Hello there! I'm Aneek, currently studying Electrical Engineering with a minor i
 - **Software Developer Intern** - Xerion Advanced Battery (May 2024 - Current)
 
 - **Software Developer** - TeamUp (May 2024 - Aug 2024)
+  - Worked on LingoLeap, language learning app
+  - Fixed bugs and pushed to app store
 
-- **Research Developer** - Texas A&M Engineering Experiment Station (Sep 2023 - Present)
+- **Undergraduate Research Developer** - Texas A&M Engineering Experiment Station (Sep 2023 - Present)
   - Developed software to enhance PPG signal quality with bandpass and highpass filters and created
     algorithms for calculating perfusion index and PPG AC values, enabling advanced physiological data
     analysis and health insights
