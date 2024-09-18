@@ -5,7 +5,7 @@ Hello there! I'm Aneek, currently studying Electrical Engineering with a minor i
 ## Education
 
 - **B.S.E. in Electrical Engineering with Minor in Computer Science**
-  - Texas A&M University, Expected May 2025
+  - Texas A&M University, Expected December 2025
   - Relevant Coursework: Computer Architecture, Data Structures & Algorithms, Operating Systems, Digital System Design, Computational Data Science, Machine Learning, Linear Algebra.
 
 ## Work Experience
