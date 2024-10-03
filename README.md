@@ -1,6 +1,6 @@
 # Aneek Roy
 
-Hello there! I'm Aneek, currently studying Electrical Engineering with a minor in Computer Science at Texas A&M University, expected to graduate in May 2025. I'm passionate about developing software that makes a difference, with a keen interest in full stack development and machine learning.
+Hello there! I'm Aneek, currently studying Electrical Engineering with a minor in Computer Science at Texas A&M University, expected to graduate in December 2025. I'm passionate about developing software that makes a difference, with a keen interest in full stack development and machine learning.
 
 ## Education
 
