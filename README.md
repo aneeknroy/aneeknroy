@@ -9,9 +9,12 @@ Hello there! I'm Aneek, currently studying Electrical Engineering with a minor i
   - Relevant Coursework: Computer Architecture, Data Structures & Algorithms, Operating Systems, Digital System Design, Computational Data Science, Machine Learning, Linear Algebra.
 
 ## Work Experience
-- **Founder** - SimpleEats (Current)
+
+- **Software Developer Intern** - Amazon (May 2025 - Aug 2025)
+
+- **Founder** - SimpleEat
   
-- **Software Developer Intern** - Xerion Advanced Battery (May 2024 - Current)
+- **Software Developer Intern** - Xerion Advanced Battery (May 2024 - April 2025)
 
 - **Software Developer** - TeamUp (May 2024 - Aug 2024)
   - Worked on LingoLeap, language learning app
