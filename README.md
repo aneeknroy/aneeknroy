@@ -10,7 +10,7 @@ Hello there! I'm Aneek.
 
 ## Work Experience
 
-- **Software Developer ** - Amazon (July 2026 - Present)
+- **Software Developer** - Amazon (July 2026 - Present)
 
 - **Software Developer Intern** - Amazon (May 2025 - Aug 2025)
 
