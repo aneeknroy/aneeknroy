@@ -4,6 +4,10 @@ Hello there! I'm Aneek.
 
 ## Education
 
+
+- **M.S.E. in Electrical Engineering**
+  - Texas A&M University In Progress
+  - Signal/Image Processing & Reinforcement Learning Focus
 - **B.S.E. in Electrical Engineering with Minor in Computer Science**
   - Texas A&M University December 2025
   - Relevant Coursework: Computer Architecture, Data Structures & Algorithms, Operating Systems, Digital System Design, Computational Data Science, Machine Learning, Linear Algebra.
